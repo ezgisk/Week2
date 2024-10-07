@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileExamples", "WhileExamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While-DoWhile", "While-DoWhile\While-DoWhile.csproj", "{6EDEBC01-A323-4EFF-BFC1-EB9CFA05447D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayApp", "HolidayApp\HolidayApp.csproj", "{04B20473-B3DD-4ED6-A7DF-73BCEB08F4E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidayApp", "HolidayApp\HolidayApp.csproj", "{04B20473-B3DD-4ED6-A7DF-73BCEB08F4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMethotApp", "FirstMethotApp\FirstMethotApp.csproj", "{1C320388-A145-4581-95AD-87983222DD0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{04B20473-B3DD-4ED6-A7DF-73BCEB08F4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B20473-B3DD-4ED6-A7DF-73BCEB08F4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B20473-B3DD-4ED6-A7DF-73BCEB08F4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C320388-A145-4581-95AD-87983222DD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C320388-A145-4581-95AD-87983222DD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C320388-A145-4581-95AD-87983222DD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C320388-A145-4581-95AD-87983222DD0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
